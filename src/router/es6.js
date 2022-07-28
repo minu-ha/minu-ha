@@ -53,6 +53,8 @@ const f2 = (a, b = 10) => {
 
 var array = [2, 3, 4, 5];
 
+var roh = [1, 23, 4];
+
 var a = array[0];
 
 import React from 'react';
