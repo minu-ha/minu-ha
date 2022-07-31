@@ -38,6 +38,8 @@ const es6 = (a) => {
 
 es6(5)[(1, 2, 3, 4, 5)].forEach((a) => console.log(a));
 
+f();
+
 var user = {
   name: 'son',
   sayHi: () => {
