@@ -65,4 +65,8 @@ function Es6(props) {
   return <div></div>;
 }
 
+function f3() {
+  return <div>123</div>;
+}
+
 export default Es6;
