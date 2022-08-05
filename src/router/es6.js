@@ -69,4 +69,8 @@ function f3() {
   return <div>123</div>;
 }
 
+function f4() {
+  return <div>1234</div>;
+}
+
 export default Es6;
