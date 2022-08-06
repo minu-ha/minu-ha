@@ -129,4 +129,6 @@ function child() {
   return <div>child</div>;
 }
 
+function f() {}
+
 export default App;
